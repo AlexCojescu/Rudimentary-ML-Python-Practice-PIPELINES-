@@ -70,6 +70,7 @@ mae = mean_absolute_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
 print("\nModel Performance Metrics:")
+
 print(f"R2 Score: {r2:.4f}")  # Higher is better; 1.0 indicates perfect prediction
 print(f"Root Mean Squared Error: {rmse:.2f}")  # Lower is better
 print(f"Mean Absolute Error: {mae:.2f}")  # Lower is better
