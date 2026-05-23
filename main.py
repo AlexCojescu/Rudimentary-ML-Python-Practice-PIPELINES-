@@ -13,6 +13,7 @@ from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error #h
 
 #loading data
 data = pd.read_csv("vehicle_emissions.csv")
+
 print(data.head())
 data.info()
 
