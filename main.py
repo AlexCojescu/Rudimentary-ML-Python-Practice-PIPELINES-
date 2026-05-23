@@ -22,6 +22,7 @@ y = data["C02_Emissions"]
 
 #split cata and num features
 numerical_cols = ["Model_Year", "Enginer_Size", "Cylinders", "Fuel_Consumption_in_City(L/100 km)", "Fuel_Consumption_in_City_Hwy(L/100 km)", "Fuel_Consumption_comb(L/100km", "C02_Emissions", "Smog Level"]
+
 catagorial_cols = ["Make", "Model", "Transmission", "Vehicle Class"]
 
 # Pipeline for preprocessing numerical data
