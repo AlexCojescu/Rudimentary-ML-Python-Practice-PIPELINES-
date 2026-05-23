@@ -4,7 +4,7 @@ Model_Year,Make,Model,Vehicle_Class,Engine_Size,Cylinders,Transmission,Fuel_Cons
 2021,Acura,RDX SH-AWD,SUV: Small,2,4,AS10,11,8.6,9.9,232,6
 2021,Acura,RDX SH-AWD A-SPEC,SUV: Small,2,4,AS10,11.3,9.1,10.3,242,6
 2021,Acura,TLX SH-AWD,Compact,2,4,AS10,11.2,8,9.8,230,7
-2021,Acura,TLX SH-AWD A-SPEC,Compact,2,4,AS10,11.3,8.1,9.8,231,7
+2021,Acura,TLX SH-AWD A-SPEC,Compact,2,4,AS10,11.3,8.1,9.8,231,4
 2021,Alfa Romeo,Giulia,Mid-size,2,4,A8,10,7.2,8.7,205,3
 2021,Alfa Romeo,Giulia AWD,Mid-size,2,4,A8,10.5,7.7,9.2,217,3
 2021,Alfa Romeo,Giulia Quadrifoglio,Mid-size,2.9,6,A8,13.5,9.3,11.6,271,3
