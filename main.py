@@ -32,6 +32,8 @@ numerical_pipeline = Pipeline([
     ('scaler', StandardScaler())
 ])
 
+
+
 # Pipeline for preprocessing categorical data
 categorical_pipeline = Pipeline([
     ('imputer', SimpleImputer(strategy='most_frequent')),
