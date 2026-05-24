@@ -145,7 +145,7 @@ Model_Year,Make,Model,Vehicle_Class,Engine_Size,Cylinders,Transmission,Fuel_Cons
 2021,Cadillac,CT5 AWD,Mid-size,3,6,AS10,12.7,9.1,11.1,260,5
 2021,Cadillac,CT5-V,Mid-size,3,6,AS10,12.7,8.7,10.9,256,5
 2021,Cadillac,CT5-V AWD,Mid-size,3,6,AS10,12.7,9.1,11.1,260,5
-2021,Cadillac,Escalade 4WD,SUV: Standard,3,6,A10,12,8.9,10.6,277,3
+2021,Cadillac,Escalade 4WD,SUV: Standard,3,6,A10,12,8.9,10.6,277,2
 2021,Cadillac,Escalade 4WD,SUV: Standard,6.2,8,A10,16.8,12.4,14.8,347,3
 2021,Cadillac,Escalade 4WD (Without Stop-Start),SUV: Standard,6.2,8,A10,17.5,12.6,15.3,357,3
 2021,Cadillac,XT4,SUV: Small,2,4,AS9,9.9,7.8,8.9,209,7
